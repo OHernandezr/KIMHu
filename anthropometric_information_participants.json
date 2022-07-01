@@ -1,0 +1,202 @@
+[
+ {
+   "Participant ID": "EXT13",
+   "Gender": "F",
+   "Age": 22,
+   "Height (m)": "1,69",
+   "Weight (Kg)": 69,
+   "Arm length(m)": "0,238",
+   "Forearm length(m)": "0,218",
+   "Hand length(m)": "0,125"
+ },
+ {
+   "Participant ID": "EXT14",
+   "Gender": "M",
+   "Age": 31,
+   "Height (m)": "1,71",
+   "Weight (Kg)": 90,
+   "Arm length(m)": "0,248",
+   "Forearm length(m)": "0,239",
+   "Hand length(m)": "0,153"
+ },
+ {
+   "Participant ID": "EXT15",
+   "Gender": "M",
+   "Age": 49,
+   "Height (m)": "1.73",
+   "Weight (Kg)": 90,
+   "Arm length(m)": "0,255",
+   "Forearm length(m)": "0,230",
+   "Hand length(m)": "0,128"
+ },
+ {
+   "Participant ID": "EXT16",
+   "Gender": "M",
+   "Age": 40,
+   "Height (m)": "1,75",
+   "Weight (Kg)": 92,
+   "Arm length(m)": "0,248",
+   "Forearm length(m)": "0,235",
+   "Hand length(m)": "0,154"
+ },
+ {
+   "Participant ID": "EXT18",
+   "Gender": "F",
+   "Age": 29,
+   "Height (m)": "1,67",
+   "Weight (Kg)": 62,
+   "Arm length(m)": "0,251",
+   "Forearm length(m)": "0,220",
+   "Hand length(m)": "0,156"
+ },
+ {
+   "Participant ID": "EXT19",
+   "Gender": "M",
+   "Age": 28,
+   "Height (m)": "1,72",
+   "Weight (Kg)": 75,
+   "Arm length(m)": "0,257",
+   "Forearm length(m)": "0,234",
+   "Hand length(m)": "0,145"
+ },
+ {
+   "Participant ID": "EXT20",
+   "Gender": "M",
+   "Age": 21,
+   "Height (m)": "1,71",
+   "Weight (Kg)": 70,
+   "Arm length(m)": "0,244",
+   "Forearm length(m)": "0,227",
+   "Hand length(m)": "0,147"
+ },
+ {
+   "Participant ID": "GIB13",
+   "Gender": "M",
+   "Age": 20,
+   "Height (m)": "1,73",
+   "Weight (Kg)": 64,
+   "Arm length(m)": "0,236",
+   "Forearm length(m)": "0,216",
+   "Hand length(m)": "0,154"
+ },
+ {
+   "Participant ID": "GIB14",
+   "Gender": "M",
+   "Age": 21,
+   "Height (m)": "1,73",
+   "Weight (Kg)": 65,
+   "Arm length(m)": "0,248",
+   "Forearm length(m)": "0,230",
+   "Hand length(m)": "0,161"
+ },
+ {
+   "Participant ID": "GIB15",
+   "Gender": "M",
+   "Age": 22,
+   "Height (m)": "1,82",
+   "Weight (Kg)": 78,
+   "Arm length(m)": "0,258",
+   "Forearm length(m)": "0,245",
+   "Hand length(m)": "0,162"
+ },
+ {
+   "Participant ID": "GIB16",
+   "Gender": "M",
+   "Age": 21,
+   "Height (m)": "1,75",
+   "Weight (Kg)": 70,
+   "Arm length(m)": "0,244",
+   "Forearm length(m)": "0,236",
+   "Hand length(m)": "0,152"
+ },
+ {
+   "Participant ID": "GIB17",
+   "Gender": "M",
+   "Age": 20,
+   "Height (m)": "1,80",
+   "Weight (Kg)": 55,
+   "Arm length(m)": "0,269",
+   "Forearm length(m)": "0,238",
+   "Hand length(m)": "0,159"
+ },
+ {
+   "Participant ID": "GIB18",
+   "Gender": "F",
+   "Age": 20,
+   "Height (m)": "1,73",
+   "Weight (Kg)": 63,
+   "Arm length(m)": "0,247",
+   "Forearm length(m)": "0,222",
+   "Hand length(m)": "0,144"
+ },
+ {
+   "Participant ID": "GIR26",
+   "Gender": "M",
+   "Age": 21,
+   "Height (m)": "1,75",
+   "Weight (Kg)": 70,
+   "Arm length(m)": "0,257",
+   "Forearm length(m)": "0,246",
+   "Hand length(m)": "0,160"
+ },
+ {
+   "Participant ID": "GIR27",
+   "Gender": "M",
+   "Age": 22,
+   "Height (m)": "1,85",
+   "Weight (Kg)": 105,
+   "Arm length(m)": "0,258",
+   "Forearm length(m)": "0,248",
+   "Hand length(m)": "0,160"
+ },
+ {
+   "Participant ID": "GIR28",
+   "Gender": "M",
+   "Age": 21,
+   "Height (m)": "1,93",
+   "Weight (Kg)": 100,
+   "Arm length(m)": "0,267",
+   "Forearm length(m)": "0,275",
+   "Hand length(m)": "0,185"
+ },
+ {
+   "Participant ID": "I03",
+   "Gender": "M",
+   "Age": 34,
+   "Height (m)": "1,78",
+   "Weight (Kg)": 91,
+   "Arm length(m)": "0,263",
+   "Forearm length(m)": "0,236",
+   "Hand length(m)": "0,174"
+ },
+ {
+   "Participant ID": "I04",
+   "Gender": "M",
+   "Age": 33,
+   "Height (m)": "1,64",
+   "Weight (Kg)": 70,
+   "Arm length(m)": "0,252",
+   "Forearm length(m)": "0,228",
+   "Hand length(m)": "0,154"
+ },
+ {
+   "Participant ID": "I05",
+   "Gender": "M",
+   "Age": 31,
+   "Height (m)": "1,73",
+   "Weight (Kg)": 70,
+   "Arm length(m)": "0,249",
+   "Forearm length(m)": "0,235",
+   "Hand length(m)": "0,151"
+ },
+ {
+   "Participant ID": "MAYR02",
+   "Gender": "M",
+   "Age": 24,
+   "Height (m)": "1,70",
+   "Weight (Kg)": 57,
+   "Arm length(m)": "0,247",
+   "Forearm length(m)": "0,225",
+   "Hand length(m)": "0,140"
+ }
+]
