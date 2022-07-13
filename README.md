@@ -1,7 +1,7 @@
 # KIMHu
 KIMHu: A Kinematic, Imaging and electroMyography dataset for Human muscular manipulation index prediction
 
-Dataset link:  [KIMHu](https://www.scidb.cn/)
+Dataset link:  [KIMHu](https://www.scidb.cn/en/s/RrIbum)
 
 
 
